@@ -177,5 +177,9 @@ nepali-speech-to-text/
 * Fine-tune Whisper for Nepali speech recognition
 * Compare Faster-Whisper results with other speech-to-text models
 
+## Status
 
+**Work in Progress**
+
+This repository is being used for experimentation and evaluation of Nepali speech-to-text using Faster-Whisper.
 
